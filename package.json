@@ -1,0 +1,27 @@
+{
+  "name": "tailwind-breakpoint-tool",
+  "version": "1.0.0",
+  "description": "A simple breakpoint tool for development of your Tailwind sites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedevdojo/tailwind-breakpoint-tool.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "tailwind",
+    "tools",
+    "breakpoint",
+    "responsive"
+  ],
+  "author": "Tony Lea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedevdojo/tailwind-breakpoint-tool/issues"
+  },
+  "homepage": "https://github.com/thedevdojo/tailwind-breakpoint-tool#readme"
+}
