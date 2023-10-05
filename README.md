@@ -13,6 +13,8 @@ You can include this tool right alongside the TailwindJS CDN:
 ```
 Resize your window and see the little breakpoint tool pop down from the top of the screen.
 
+https://github.com/thedevdojo/tailwind-breakpoint-tool/assets/601261/5e7af794-1ccd-4f33-9e76-28e26f0a0662
+
 ---
 
 This tool utilizes some Tailwind classes itself, so if you are not utilizing the TailwindCDN there may be some classes that do not display correctly. In this case you may just want to copy and paste the javascript from the `index.js` anywhere on your page.
